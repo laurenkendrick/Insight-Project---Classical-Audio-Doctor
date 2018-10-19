@@ -27,7 +27,7 @@ import youtube_dl
 import string
 import glob
 #From input url, extract data and views
-DEVELOPER_KEY='AIzaSyDyYbI1TRfwsjwSb2hxiX2URUnRoAeibd0'
+DEVELOPER_KEY=''
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
